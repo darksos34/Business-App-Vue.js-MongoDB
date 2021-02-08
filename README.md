@@ -1,4 +1,4 @@
-# Business-App-Vue.js_MongoDB
+# Business App Vue.js MongoDB
  
 First step Setup the Vue.js project
 
